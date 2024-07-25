@@ -1,7 +1,7 @@
 
 # TicTacToe 
 
-This is a console appliaction of TicTacToe game.
+This is an console appliaction of TicTacToe game.
 
 
 ## Install and open
